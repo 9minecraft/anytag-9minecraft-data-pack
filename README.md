@@ -10,6 +10,7 @@ Built and maintained in-house by 9Minecraft Studios.
 |---|
 | 26.3 |
 | 26.2 |
+| 1.21.11 | — |
 
 ## Source
 
